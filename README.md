@@ -33,6 +33,6 @@ Installation
 ------------
 
 1. Compile the translator : `make yass_blast2chainer`
-2. Compile the java code (from the root dir): `javac -sourcepath OverlapChainer/src -d OverlapChainer/bin OverlapChainer/src/overlapChainer/*.java OverlapChainer/src/tests/*.java
+2. Compile the java code (from the root dir): `javac -sourcepath OverlapChainer/src -d OverlapChainer/bin OverlapChainer/src/overlapChainer/*.java OverlapChainer/src/tests/*.java`
 3. Get Yass v1.14: <http://bioinfo.lifl.fr/yass/download.php> and link it (or copy it) into the root folder under the name: `yass_1.14` 
 5. Enjoy ;)
