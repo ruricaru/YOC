@@ -44,6 +44,7 @@ Requirements
 To run YOC,
 - any version of tcsh, awk, Perl and a C compiler
 - Java at least 1.6 (should work with minor adaptations downto 1.4)
+
 are required.
 
 YOC works on Apple Mac OS X and Linux systems.
