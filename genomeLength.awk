@@ -1,4 +1,4 @@
-#!/usr/bin/awk -f
+#!/usr/bin/env awk -f
 ## This file is part of YOC.
 ## 
 ## YOC is free software: you can redistribute it and/or modify
